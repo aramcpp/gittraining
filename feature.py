@@ -1,2 +1,2 @@
 #some new super feature development goes on
-print "Boom!"
+print "Boom! Boom!"
